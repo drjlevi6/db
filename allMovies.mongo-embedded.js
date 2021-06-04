@@ -97,7 +97,6 @@ genre: 	{
 	name: 'Crime',
 	description: 'Films of this genre generally involve various aspects of crime and its detection.'
 },
-,
 director: {
 	name: 'Andrew Davis', 
 	bio: 'Andrew Davis is an American film director, producer, writer, and cinematographer who is known for directing Holes and a number of action thrillers.',
