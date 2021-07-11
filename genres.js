@@ -28,5 +28,9 @@
 	{
 		name: 'Documentary',
 		description: 'A documentary (or documentary film) is a non-fictional motion-picture intended to "document reality, primarily for the purposes of instruction, education, or maintaining a historical record".'
+	},
+	{
+		name: 'Thriller',
+		description: 'A thriller is a genre whose primary feature is that it induces strong feelings of excitement, anxiety, tension, suspense, fear, and other similar emotions in its viewers.'
 	}
 ]
